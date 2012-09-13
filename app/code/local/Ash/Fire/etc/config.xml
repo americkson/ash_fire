@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config> 
+    <modules>
+        <Ash_Fire>
+            <version>0.0.1</version>
+        </Ash_Fire>
+    </modules>
+
+    <global>
+        <helpers>
+            <firephp>
+                <class>Ash_Fire_Helper</class>
+            </firephp>
+        </helpers>
+    </global>
+
+</config>
