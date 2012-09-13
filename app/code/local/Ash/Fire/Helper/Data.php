@@ -1,7 +1,24 @@
 <?php
 
 /**
- * *** BEGIN LICENSE BLOCK *****
+* Firephp Helper
+*
+* This extension adds firephp that is helpful to debugging with firefox.
+*
+* @category Ash
+* @package Ash_Fire
+* @copyright Copyright (c) 2011 August Ash, Inc. (http://www.augustash.com)
+* @author Jefferson Costella (jcostella@augustash.com)
+*/
+
+/**
+* Data Helper
+*
+* @package Ash_Fire
+* @subpackage Ash_Fire_Helper
+*/
+
+/**
  *  
  * This file is part of FirePHP (http://www.firephp.org/).
  * 
@@ -35,7 +52,6 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * 
- * ***** END LICENSE BLOCK *****
  * 
  * @copyright       Copyright (C) 2007-2009 Christoph Dorn
  * @author          Christoph Dorn <christoph@christophdorn.com>

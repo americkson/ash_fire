@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!--
+/**
+* Fire Helper
+*
+* This extension adds firephp that is helpful to debugging with firefox.
+*
+* @category Ash
+* @package Ash_Fire
+* @copyright Copyright (c) 2011 August Ash, Inc. (http://www.augustash.com)
+* @author Jefferson Costella (jcostella@augustash.com)
+*/
+-->
 <config> 
     <modules>
         <Ash_Fire>
