@@ -1,6 +1,6 @@
-## Ash Fire
+# Ash Fire
 
-Ash fire provides FirePhp debugging for Magento v-1.7.0.2.
+Ash Fire provides FirePhp debugging for Magento v-1.7.0.2.
 
 ## FirePHP
 
