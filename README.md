@@ -1,12 +1,16 @@
-## Magento FirePHP
+## Ash Fire
+
+Ash fire provides FirePhp debugging for Magento v-1.7.0.2.
+
+## FirePHP
 
 FirePHP is Firefox add-on that enables you to log to your Firebug Console, which makes it great debugging tool for any web developer.
 
-### Official website [FirePhp](http://firephp.org)
+[FirePhp Official website](http://firephp.org)
 
 ## Instalation
 
-Simple copy the contents of the app folder to your Magento.
+Simple copy the contents of the app folder to your Magento installation.
 
 ## Usage
 
